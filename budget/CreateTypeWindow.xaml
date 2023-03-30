@@ -1,0 +1,17 @@
+﻿<Window x:Class="Budget.CreateTypeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Budget"
+        mc:Ignorable="d"
+        Title="CreateTypeWindow" Height="150" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="Name_new_type" Margin="10"> </TextBox>
+        <Button Grid.Row="1" VerticalAlignment="Top" Margin="10,0,10,0" HorizontalContentAlignment="Center" Content="Создать" Click="Button_Click"></Button>
+    </Grid>
+</Window>

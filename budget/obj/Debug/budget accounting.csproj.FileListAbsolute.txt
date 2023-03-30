@@ -1,0 +1,58 @@
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\budget accounting.exe.config
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\budget accounting.exe
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\budget accounting.pdb
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\MaterialDesignColors.dll
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\MaterialDesignColors.pdb
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.csproj.AssemblyReference.cache
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\MainWindow.g.cs
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\App.g.cs
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting_MarkupCompile.cache
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting_MarkupCompile.lref
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\MainWindow.baml
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.g.resources
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget_accounting.Properties.Resources.resources
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.csproj.GenerateResource.cache
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.csproj.CoreCompileInputs.cache
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.csproj.CopyComplete
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.exe
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\budget accounting.pdb
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\CreateTypeWindow.g.cs
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\obj\Debug\CreateTypeWindow.baml
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maks3d12\source\repos\budget accounting\budget accounting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\budget accounting.exe.config
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\budget accounting.exe
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\budget accounting.pdb
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\MaterialDesignColors.dll
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\MaterialDesignColors.pdb
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.csproj.AssemblyReference.cache
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\CreateTypeWindow.g.cs
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\MainWindow.g.cs
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\App.g.cs
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting_MarkupCompile.cache
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting_MarkupCompile.lref
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\CreateTypeWindow.baml
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\MainWindow.baml
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.g.resources
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget_accounting.Properties.Resources.resources
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.csproj.GenerateResource.cache
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.csproj.CopyComplete
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.exe
+C:\Users\rusla\Downloads\BudgetManager-main (1)\BudgetManager-main\budget accounting\obj\Debug\budget accounting.pdb
